@@ -71,3 +71,7 @@ The global capture shortcut is set in the Snapshot window. A global shortcut tak
 the same keys in every other app (⌘L will no longer focus a browser's address bar).
 If one of macOS's own screenshot shortcuts (System Settings → Keyboard → Keyboard Shortcuts →
 Screenshots) uses the same keys, change it there, or both tools will start.
+
+## License
+
+[MIT](LICENSE)
